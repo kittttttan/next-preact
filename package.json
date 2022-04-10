@@ -1,5 +1,12 @@
 {
+  "name": "next-preact",
+  "version": "0.1.0",
   "private": true,
+  "description": "Next.js + Preact example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kittttttan/next-preact.git"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
